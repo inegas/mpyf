@@ -11,4 +11,4 @@ $(function() {
 
     $("body").toggleClass("overflow-hidden");
   });
-}); // jQuery load
+});
